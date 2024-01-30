@@ -6,7 +6,7 @@ namespace CSharp
     class Program
     {
         // Generic class
-        class MyClass<T>
+        class MyClass<T> where T : struct // reference, new(), Monster...
         {
             T[] arr = new T[10];
 
@@ -16,6 +16,10 @@ namespace CSharp
             }
         }
 
+        static void TestFunc<T>(T input)
+        {
+
+        }
 
         static void Main(string[] args)
         {
@@ -24,6 +28,8 @@ namespace CSharp
 
             MyClass<int> class_a = new MyClass<int>();
             MyClass<string> class_b = new MyClass<string>();
+
+            TestFunc<int>(3);
         }
     }
 }
