@@ -1,0 +1,15 @@
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/bin/Debug/net8.0/CSharpPractice2
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/bin/Debug/net8.0/CSharpPractice2.deps.json
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/bin/Debug/net8.0/CSharpPractice2.runtimeconfig.json
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/bin/Debug/net8.0/CSharpPractice2.dll
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/bin/Debug/net8.0/CSharpPractice2.pdb
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.AssemblyInfoInputs.cache
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.AssemblyInfo.cs
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.csproj.CoreCompileInputs.cache
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.sourcelink.json
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.dll
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/refint/CSharpPractice2.dll
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.pdb
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/CSharpPractice2.genruntimeconfig.cache
+/Users/jongko/Workspace/C-Sharp-Practice/Practice 2/CSharpPractice2/obj/Debug/net8.0/ref/CSharpPractice2.dll
